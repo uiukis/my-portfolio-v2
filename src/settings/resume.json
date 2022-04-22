@@ -1,0 +1,145 @@
+{
+  "basics": {
+    "name": "Wilker Quirino",
+    "label": "Software Developer",
+    "email": "wilker.sou26@gmail.com",
+    "phone": "(XXX) XXX-XXXX",
+    "picture": "mt.png",
+    "x_title": "Hello, I'm",
+    "job1": "Software developer",
+    "job2": "",
+    "description": "Greetings, I'm Wilker Quirino, a Web Developer based from the Philippines. I love all things technical. Talk soon!",
+    "summary": "based in Angeles, Philippines.",
+    "keywords": "personal,website,portfolio,template,kit,mark,tan,taniyow,webdev,web,developer,angeles,philippines,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
+    "url": "https:///",
+    "location": {
+      "address": "XX XXXXXstreet",
+      "postalCode": "XXXXX",
+      "city": "Fortaleza",
+      "country": "Ceará",
+      "countryCode": "CE",
+      "region": "Brazil"
+    },
+    "profiles": [
+      {
+        "network": "Google",
+        "username": "fw.quirino@gmail.com",
+        "url": "mailto:fw.quirino@gmail.com",
+        "x_icon": "fab fa-google"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "fquirino",
+        "url": "https://www.linkedin.com/in/fquirino/",
+        "x_icon": "fab fa-linkedin-in"
+      },
+      {
+        "network": "GitHub",
+        "username": "uiukis",
+        "url": "https://github.com/uiukis",
+        "x_icon": "fab fa-github"
+      },
+      {
+        "network": "Instagram",
+        "username": "_uiukis",
+        "url": "https://instagram.com/_uiukis/",
+        "x_icon": "fab fa-instagram"
+      },
+      {
+        "network": "Discord",
+        "username": "oUiuke#9195",
+        "url": "https://discordapp.com/users/376137839135424523",
+        "x_icon": "fab fa-discord"
+      },
+      {
+        "network": "CV",
+        "username": "My CV",
+        "url": "https://drive.google.com/file/d/1axDj52nlp_uzfsH44wDVDbiNXDd-bt1C/view?usp=sharing",
+        "x_icon": "fab fa-elementor"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Company",
+      "position": "President",
+      "website": "http://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Description...",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "website": "http://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description...",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "gpa": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "website": "http://publication.com",
+      "summary": "Description..."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "Javascript"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Good knowledge"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference..."
+    }
+  ]
+}
