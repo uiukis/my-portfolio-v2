@@ -22,7 +22,7 @@ export const LogoLink = () => {
 
   return (
     <Tooltip
-      title={Resume.basics.name}
+      title={Resume.basics.nick}
       placement="right"
       TransitionComponent={Zoom}
     >

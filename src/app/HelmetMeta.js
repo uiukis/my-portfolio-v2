@@ -7,10 +7,7 @@ export const HelmetMeta = () => {
   return (
     <Helmet>
       <meta name="theme-color" content={Settings.colors.primary} />
-      <title>
-        {Resume.basics.name} | {Resume.basics.location.city},{" "}
-        {Resume.basics.location.countryCode}
-      </title>
+      <title>{Resume.basics.name}</title>
       <meta name="author" content={Resume.basics.name} />
       <meta name="description" content={Resume.basics.description} />
       <meta name="keywords" content={Resume.basics.keywords} />
